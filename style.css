@@ -1,0 +1,128 @@
+.header{
+    display: flex;
+  align-items: center;
+   justify-content: center;
+   height: 100px;
+   margin-top: 40px;
+  }
+  
+  .logo {
+    width: 200px;
+    height: auto;
+  }
+  
+  
+  
+  .problema {
+    background-color: #74CCE1;
+        padding: 10px;
+        border-radius: 10px;
+        color: black;
+        max-width: 600px;
+        margin: 20px 0;
+        width: 400px;
+  }
+  
+  .doctors {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1000px;
+    margin: 20px auto;
+  }
+  
+  .imagem-problema {
+    width: 400px;
+        height: auto;
+        border-radius: 10px;
+  
+  }
+  
+  .ideia-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1000px;
+    margin: 20px auto;
+  }
+  
+  .ideia {
+    background-color: #74CCE1; 
+    padding: 10px;
+    border-radius: 10px;
+    color: black;
+    max-width: 500px;
+    width: 400px;
+  }
+  
+  .imagem-ideia {
+    width: 400px;
+    height: auto;
+    border-radius: 10px;
+  }
+  
+  .nicho-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1000px;
+    margin: 20px auto;
+  }
+  
+  .nicho{
+    background-color: #74CCE1;
+        padding: 30px;
+        border-radius: 10px;
+        color: black;
+        max-width: 600px;
+        margin: 20px 0;
+        width: 500px;
+  
+  }
+  
+  .nicho-imagem {
+    width: 400px;
+    height: auto;
+    border-radius: 10px;
+    margin-right: 20px;
+    margin-left: 20px;
+  }
+  
+  .proposta-valor {
+    background-color: #74CCE1; 
+    padding: 20px;
+    border-radius: 10px;
+    color: black;
+    max-width: 600px;
+    width: 500px;
+    margin: 20px auto;
+    text-align: center;
+  
+  }
+  
+  .proposta-valor p {
+    font-size: 15px;
+  }
+  
+  .modelo-inpiracao{
+    background-color: #74CCE1; 
+    padding: 5px;
+    border-radius: 15px;
+    color: black;
+    width: 450px;
+    margin: 90px auto;
+    text-align: center;
+  
+  }
+  
+  .exemplos-section {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+  }
+  
+  
+  .exemplos {
+    width: 900px;
+    height: 500px;
+  }
